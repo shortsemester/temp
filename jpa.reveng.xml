@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table name="tdept" catalog="littlesemeter" class="Tdept"></table>
+	<table name="temp" catalog="littlesemeter" class="Temp"></table>
+	<table name="tmeeting" catalog="littlesemeter" class="Tmeeting"></table>
+	<table name="tmeetingperson" catalog="littlesemeter"
+		class="Tmeetingperson">
+	</table>
+	<table name="troom" catalog="littlesemeter" class="Troom"></table>
+	<table name="tuser" catalog="littlesemeter" class="Tuser"></table>
+</hibernate-reverse-engineering>
